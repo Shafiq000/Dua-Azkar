@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Dua-Azkar",
+    "slug": "Dua-Azkar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
